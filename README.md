@@ -11,3 +11,4 @@ Verilog Files for our CSCB58, Summer 2019 final project using the DE2-115 FPGA b
                  Use KEY[0] to drop the block
                  Once the game is over, use SW[8] to restart the game
   	
+**Demo Video link**: https://www.youtube.com/watch?v=W2qzoeYMtxY 
